@@ -1,0 +1,9 @@
+# used to ignore files that we dont want to be sent to the remote repository
+
+# log files
+# temporary files
+# hidden files
+# personal files
+
+build
+.properties
