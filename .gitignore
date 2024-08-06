@@ -1,4 +1,5 @@
 # used to ignore files that we dont want to be sent to the remote repository
+# to ignore specific application in our application
 
 # log files
 # temporary files
